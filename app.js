@@ -1,5 +1,5 @@
 const ApiKey = "b3a6c88d5f864cb6b57114026242310"
-var ApiUrl = "http://api.weatherapi.com/v1/current.json"
+var ApiUrl = "https://api.weatherapi.com/v1/current.json"
 let city = document.querySelector("#City")
 let temp = document.querySelector("#Temp")
 let wh = document.querySelector("#whether")
